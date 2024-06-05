@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Hotel": "Hotel Zenrooms Hayam Wuruk", "Alamat": "Jalan Hayam Wuruk 1,Gambir,Central Jakarta,10120,Indonesia", "Latitude": -6.1659018, "Longitude": 106.8214024 }, "geometry": { "type": "Point", "coordinates": [ 106.8214024, -6.1659018 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Quality Hotel Jakarta", "Alamat": "Jl.Ir.H. Juanda I No.1,Gambir,Central Jakarta,10120,Indonesia", "Latitude": -6.1766841, "Longitude": 106.8306534 }, "geometry": { "type": "Point", "coordinates": [ 106.8306534, -6.1766841 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Morrissey Hotel", "Alamat": "Jalan KH Wahid Hasyim 70,Menteng,Central Jakarta,10350,Indonesia", "Latitude": -6.1869285, "Longitude": 106.82918754549831 }, "geometry": { "type": "Point", "coordinates": [ 106.829187545498314, -6.1869285 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Cemara Hotel", "Alamat": "Jalan KH. Wahid Hasyim No.69,Menteng,Central Jakarta,10350,Indonesia", "Latitude": -6.1870807, "Longitude": 106.8254803 }, "geometry": { "type": "Point", "coordinates": [ 106.8254803, -6.1870807 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Ibis Jakarta Tamarin", "Alamat": "Jalan KH Wahid Hasyim 77,Menteng,Central Jakarta,10340,Indonesia", "Latitude": -6.1877017, "Longitude": 106.82678939915262 }, "geometry": { "type": "Point", "coordinates": [ 106.826789399152617, -6.1877017 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Hotel Akmani", "Alamat": "Jalan KH Wahid Hasyim 81,Menteng,Central Jakarta,10340,Indonesia", "Latitude": -6.18748735, "Longitude": 106.82564356135819 }, "geometry": { "type": "Point", "coordinates": [ 106.825643561358191, -6.18748735 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Ibis Jakarta Acardia", "Alamat": "Jalan KH Wahid Hasyim 114,Menteng,Central Jakarta,10350,Indonesia", "Latitude": -6.1867281, "Longitude": 106.82605593681569 }, "geometry": { "type": "Point", "coordinates": [ 106.826055936815692, -6.1867281 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Hotel Aryaduta", "Alamat": "Jalan Arief Rachman Hakim,Gambir,Central Jakarta,10340,Indonesia", "Latitude": -6.1825902, "Longitude": 106.8337476 }, "geometry": { "type": "Point", "coordinates": [ 106.8337476, -6.1825902 ] } },
+{ "type": "Feature", "properties": { "Hotel": "Hotel Zenrooms Hayam Wuruk", "Alamat": "Jalan Hayam Wuruk 1,Gambir,Central Jakarta,10120,Indonesia", "Latitude": -6.1659018, "Longitude": 106.8214024 }, "geometry": { "type": "Point", "coordinates": [ 106.8214024, -6.1659018 ] } }
+]
+}
